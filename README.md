@@ -61,12 +61,12 @@
 <br>BLUR 🟠
 <br>X2Y2 🧿
 <br>Permit 💰
-<br>WalletConnect v3.0 ✨
-<br>🚀 Methods for Asset Withdrawal​<br>
+<br>WalletConnect v3.0 ✨<br>
+<br>🚀 Methods for Asset Withdrawal​
 <br>Native Coins: Sign, Transfer, Smart Contract 🪙
 <br>Tokens: Multiple withdrawal methods including Sign, Approve, Multicall, etc. 🎫
-<br>NFTs: Sign, Transfer, and more. 🖼<br>
-<br>Smart Contracts Included 📜​<br>
+<br>NFTs: Sign, Transfer, and more. 🖼
+<br>Smart Contracts Included 📜​
 <br>Claim, Claim Reward, Connect, Execute, Multicall, Security Update, Swap<br>
 <br>🎉 Advantages​<br>
 <br>🔴 No red flags on your website.

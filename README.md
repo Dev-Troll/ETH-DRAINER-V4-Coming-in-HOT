@@ -10,75 +10,75 @@
 ✅ This powerful drainer supports multiple networks:​
 <br>🌐 Ethereum
 <br>🚀 BNB Smart Chain
-🌈 Polygon
-❄️ Avalanche
-🌟 Arbitrum
-🌓 Fantom
-✅ Supports 100+ Wallets, inlcuding:​
-🦊 Metamask
-🛡️ Trust Wallet
-💰 Coinbase Wallet
-🌐 WalletConnect
-🗝️ MyEtherWallet
-🔒 Trezor
-🛠️ Ledger Nano
-✅ Supports all ERC20 tokens, inlcuding:​
-💰 ETH (Ethereum)
-🔶 BNB (Binance Coin)
-🔷 MATIC (Polygon)
-💲 USDT (Tether)
-💵 USDC (USD Coin)
-🚀 AAVE
-🔗 LINK (Chainlink)
-🦄 UNI (Uniswap)
-🌕 DOGE (Dogecoin)
-✅ It can drain all NFTs, like:​
-🎨 CryptoPunks
-🦍 Bored Ape Yacht Club
-🧱 Art Blocks
-🚀 Pudgy Penguins
-🐱 CryptoKitties
-🤖 Meebits
-🎮 Decentraland
-🌌 Axie Infinity
+<br>🌈 Polygon
+<br>❄️ Avalanche
+<br>🌟 Arbitrum
+<br>🌓 Fantom
+<br>✅ Supports 100+ Wallets, inlcuding:​
+<br>🦊 Metamask
+<br>🛡️ Trust Wallet
+<br>💰 Coinbase Wallet
+<br>🌐 WalletConnect
+<br>🗝️ MyEtherWallet
+<br>🔒 Trezor
+<br>🛠️ Ledger Nano<br>
+<br>✅ Supports all ERC20 tokens, inlcuding:​
+<br>💰 ETH (Ethereum)
+<br>🔶 BNB (Binance Coin)
+<br>🔷 MATIC (Polygon)
+<br>💲 USDT (Tether)
+<br>💵 USDC (USD Coin)
+<br>🚀 AAVE
+<br>🔗 LINK (Chainlink)
+<br>🦄 UNI (Uniswap)
+<br>🌕 DOGE (Dogecoin)<br>
+<br>✅ It can drain all NFTs, like:​
+<br>🎨 CryptoPunks
+<br>🦍 Bored Ape Yacht Club
+<br>🧱 Art Blocks
+<br>🚀 Pudgy Penguins
+<br>🐱 CryptoKitties
+<br>🤖 Meebits
+<br>🎮 Decentraland
+<br>🌌 Axie Infinity<br>
 ​
-🔥 Purchase Information 🔥​
-🛍 Price: $300 🏷️ Check or New price and plans with our fully autonomous Bot below 👇.
-💬 Contact us on our server: @becalm_verified on Telegram 💬​
+<br>🔥 Purchase Information 🔥​<br>
+<br>🛍 Price: Free 🏷️ Check or New price and plans with our fully autonomous Bot below 👇.
+<br>💬 Contact us on our server: @becalm_verified on Telegram 💬​
 
-Advanced Features 🚀​
-📣Telegram Notifications: Real-time updates on user actions and payments include:
-🌍 Domain
-✉️ IP address
-💰 Wallet type
-💠 Address
-⛓ Current Network
-💵 Total wallet balance
-🪙 Main coin
-🎫 ERC-20 tokens
-🖼 NFT
-Seaport 🐳
-BLUR 🟠
-X2Y2 🧿
-Permit 💰
-WalletConnect v3.0 ✨
-🚀 Methods for Asset Withdrawal​
-Native Coins: Sign, Transfer, Smart Contract 🪙
-Tokens: Multiple withdrawal methods including Sign, Approve, Multicall, etc. 🎫
-NFTs: Sign, Transfer, and more. 🖼
-Smart Contracts Included 📜​
-Claim, Claim Reward, Connect, Execute, Multicall, Security Update, Swap
-🎉 Advantages​
-🔴 No red flags on your website.
-👛 Supports a huge number of wallets.
-📞 Quick technical support. (Plan B only)
-🛠 Installation and user manual. (Plan B only)
-🔄 Switch between multiple robust APIs.
-🛠 System Requirements for Hosting​
-Ubuntu 22.04 Virtual Server 🖥
-Ports 80 and 443 should be free. 🌐
-​
-🚨 Disclaimer 🚨​
+<br>Advanced Features 🚀​<br>
+<br>📣Telegram Notifications: Real-time updates on user actions and payments include:
+<br>🌍 Domain
+<br>✉️ IP address
+<br>💰 Wallet type
+<br>💠 Address
+<br>⛓ Current Network
+<br>💵 Total wallet balance
+<br>🪙 Main coin
+<br>🎫 ERC-20 tokens
+<br>🖼 NFT
+<br>Seaport 🐳
+<br>BLUR 🟠
+<br>X2Y2 🧿
+<br>Permit 💰
+<br>WalletConnect v3.0 ✨
+<br>🚀 Methods for Asset Withdrawal​<br>
+<br>Native Coins: Sign, Transfer, Smart Contract 🪙
+<br>Tokens: Multiple withdrawal methods including Sign, Approve, Multicall, etc. 🎫
+<br>NFTs: Sign, Transfer, and more. 🖼<br>
+<br>Smart Contracts Included 📜​<br>
+<br>Claim, Claim Reward, Connect, Execute, Multicall, Security Update, Swap<br>
+<br>🎉 Advantages​<br>
+<br>🔴 No red flags on your website.
+<br>👛 Supports a huge number of wallets.
+<br>📞 Quick technical support. (Plan B only)
+<br>🛠 Installation and user manual. (Plan B only)
+<br>🔄 Switch between multiple robust APIs.<br>
+<br>🛠 System Requirements for Hosting​<br>
+<br>Ubuntu 22.04 Virtual Server 🖥
+<br>Ports 80 and 443 should be free. 🌐
+​<br>
+<br>🚨 Disclaimer 🚨​<br><br>
 
 The product is sold for informational purposes only. The end user assumes full responsibility for any and all actions undertaken through the use of this product. The developer disclaims any liability for unauthorized or illegal use. Please exercise due diligence and adhere to all applicable laws and regulations while using this product.
 

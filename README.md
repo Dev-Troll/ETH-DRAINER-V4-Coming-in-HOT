@@ -62,7 +62,7 @@
 <br>X2Y2 🧿
 <br>Permit 💰
 <br>WalletConnect v3.0 ✨<br>
-<br>🚀 Methods for Asset Withdrawal​
+<br>🚀 Methods for Asset Withdrawal​<br>
 <br>Native Coins: Sign, Transfer, Smart Contract 🪙
 <br>Tokens: Multiple withdrawal methods including Sign, Approve, Multicall, etc. 🎫
 <br>NFTs: Sign, Transfer, and more. 🖼

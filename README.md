@@ -75,10 +75,7 @@
 <br>📞 Quick technical support. (Plan B only)
 <br>🛠 Installation and user manual. (Plan B only)
 <br>🔄 Switch between multiple robust APIs.<br>
-<br>🛠 System Requirements for Hosting​<br>
-<br>Ubuntu 22.04 Virtual Server 🖥
-<br>Ports 80 and 443 should be free. 🌐
-​<br>
+
 <br>🚨 Disclaimer 🚨​<br><br>
 
 The product is sold for informational purposes only. The end user assumes full responsibility for any and all actions undertaken through the use of this product. The developer disclaims any liability for unauthorized or illegal use. Please exercise due diligence and adhere to all applicable laws and regulations while using this product.

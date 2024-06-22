@@ -6,6 +6,7 @@
 
 ##  Send a DM If you have any questions  
 ## Telegram :https://t.me/becalm_verified
+## Channel :https://t.me/+mutIJK0mNIhmY2I0
 ​
 ✅ This powerful drainer supports multiple networks:​
 <br>🌐 Ethereum

@@ -44,7 +44,7 @@
 <br>🌌 Axie Infinity<br>
 ​
 <br>🔥 Purchase Information 🔥​<br>
-<br>🛍 Price: Free 🏷️ Check or New price and plans with our fully autonomous Bot below 👇.
+<br>🛍 Price: Free😂😂 Check or New price and plans with our fully autonomous Bot below 👇.
 <br>💬 Contact us on our server: @becalm_verified on Telegram 💬​
 
 <br>Advanced Features 🚀​<br>
